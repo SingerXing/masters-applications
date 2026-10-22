@@ -30,3 +30,7 @@ Hello, and welcome! I use this page to track my master's program applications fo
 | Jan 15 | Columbia | Financial Engineering | Not submitted |
 | Jan 28 | Duke | Master of Interdisciplinary Data Science | Not submitted |
 | Feb 8 | NYU | MS in Mathematics in Finance | Not submitted |
+
+## Program research
+
+- [UChicago — MS in Financial Mathematics](UChicago-MS-in-Financial-Mathematics.md): admissions profile, career outcomes, and my info-session notes
