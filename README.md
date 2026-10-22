@@ -33,4 +33,4 @@ Hello, and welcome! I use this page to track my master's program applications fo
 
 ## Program research
 
-- [UChicago — MS in Financial Mathematics](UChicago-MS-in-Financial-Mathematics.md): admissions profile, career outcomes, and my info-session notes
+- [UChicago — MS in Financial Mathematics](UChicago-MS-in-Financial-Mathematics.md): my notes from the admissions session
