@@ -1,59 +1,31 @@
-# Academic Background & Project Guide
+# Master's Applications — Recommender Guide
 
-**Singer Xing · University of Wisconsin–Madison · Mathematics and Data Science**
+Thank you for supporting my graduate studies. This page brings together upcoming application deadlines, program notes, and academic materials to help with recommendation letters.
 
-Thank you for supporting my graduate studies. This page brings together my academic interests, research, and selected projects as background for recommendation letters.
+*Last updated: October 29, 2026*
 
-[Résumé](https://github.com/SingerXing/resume-and-cv-public/blob/main/resume/Singer-Xing-Resume-redacted.pdf) · [Portfolio](https://github.com/SingerXing/portfolio) · [GitHub profile](https://github.com/SingerXing)
+> I’ll keep this page updated. The programs listed below have November–December 2026 deadlines; information about programs with **January 2027 and later deadlines** will be added later as I finalize the details.
 
-## Academic interests
+## Upcoming application deadlines
 
-I enjoy the rigorous reasoning behind mathematics and the process of turning complicated data into useful models. My interests connect mathematical modeling, statistics, machine learning, and financial applications, including how policy, consumer behavior, and credit influence financial decisions.
+| Deadline | School | Program |
+|---|---|---|
+| November 2, 2026 | UChicago | MS in Financial Mathematics |
+| December 1, 2026 | NYU | MS in Financial Engineering |
+| December 1, 2026 | Cornell | M.Eng. in Operations Research and Information Engineering |
+| December 5, 2026 | Georgia Tech | MS in Quantitative and Computational Finance |
 
-## Selected research and projects
+These are the application deadlines in my current schedule. I’ll share recommendation submission links and any recommender-specific instructions directly.
 
-### Statistical Dynamics — UW–Madison MXM Research
+## Program notes
 
-Autoencoder–LSTM models for complex stochastic systems, with extensions that incorporate statistical observations. The repository presents the team's methods, reconstruction and forecasting results, and proposed filtering framework.
+- [UChicago — MS in Financial Mathematics](UChicago-MS-in-Financial-Mathematics.md): my notes from the October 19 admissions session, including the curriculum and the qualities the program looks for.
 
-**Relevant areas:** mathematical modeling, stochastic systems, machine learning, scientific computing.
+## Background materials
 
-[Research repository](https://github.com/SingerXing/learning-statistically-accurate-dynamics) · [Final report](https://github.com/SingerXing/learning-statistically-accurate-dynamics/blob/main/report/final-report.pdf) · [Poster](https://github.com/SingerXing/learning-statistically-accurate-dynamics/blob/main/poster/research-poster.pdf) · [Research narrative](https://github.com/SingerXing/learning-statistically-accurate-dynamics/blob/main/docs/research-narrative.pdf)
+- [Academic background and selected projects](academic-background.md)
+- [Résumé](https://github.com/SingerXing/resume-and-cv-public/blob/main/resume/Singer-Xing-Resume-redacted.pdf)
+- [Portfolio](https://github.com/SingerXing/portfolio)
+- [GitHub profile](https://github.com/SingerXing)
 
-### Data Science Programming II — UW–Madison
-
-A collection of eight Python projects covering web crawling, Flask applications and A/B testing, geospatial analysis, regression, and classification. Highlights include graph-based crawlers and customer purchase prediction.
-
-**Relevant areas:** data collection and analysis, algorithms, experimental design, predictive modeling.
-
-[Project collection](https://github.com/SingerXing/data-science-programming-ii-projects) · [Web crawling](https://github.com/SingerXing/data-science-programming-ii-projects/tree/main/projects/mp4) · [A/B testing](https://github.com/SingerXing/data-science-programming-ii-projects/tree/main/projects/mp5) · [Machine learning](https://github.com/SingerXing/data-science-programming-ii-projects/tree/main/projects/mp8)
-
-### Machine Learning Optimization — Stealth
-
-Classification pipelines using logistic regression and TF-IDF–LinearSVC, comparing grid, random, and Bayesian hyperparameter search. The work includes cross-validation, test evaluation, runtime analysis, and revisions guided by mentor feedback.
-
-**Relevant areas:** model selection, evaluation, hyperparameter tuning, iterative improvement.
-
-[Project repository](https://github.com/SingerXing/machine-learning-projects-in-stealth) · [Logistic regression](https://github.com/SingerXing/machine-learning-projects-in-stealth/tree/main/revised) · [Text classification](https://github.com/SingerXing/machine-learning-projects-in-stealth/tree/main/revised/task-2210)
-
-### Decision-Directed Evidence Acquisition — KnowYi
-
-A Python prototype for choosing which inspection to request next and when to stop or defer. It implements five decision strategies and reproducible synthetic experiments examining uncertainty, budgets, prerequisites, and shared setup costs.
-
-**Relevant areas:** Bayesian decision-making, uncertainty, experimental design, resource constraints.
-
-The project repository is private; access is required to review the implementation.
-
-## Technical background
-
-- **Programming:** Python, R, SQL, MATLAB
-- **Modeling and machine learning:** PyTorch, scikit-learn, Ray Tune, Hyperopt
-- **Data and visualization:** NumPy, pandas, Matplotlib, Excel
-- **Data collection and tools:** Selenium, BeautifulSoup, requests, MySQL, Git, Jupyter, RStudio, Flask
-- **Methods:** mathematical modeling, Bayesian inference, A/B testing, sensitivity analysis, hyperparameter tuning
-
-## For recommenders
-
-These materials provide context for my work; please draw on the experiences and qualities you have observed firsthand. I can provide additional information about individual projects or my contributions if helpful.
-
-Program-specific requirements, submission links, and deadlines will be shared directly.
+Please draw on the experiences and qualities you have observed firsthand. I’m happy to provide additional context about my coursework, research, or individual projects.
