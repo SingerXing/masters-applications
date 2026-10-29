@@ -4,9 +4,9 @@ Thank you for supporting my graduate studies. This page brings together upcoming
 
 *Last updated: October 29, 2026*
 
-> Because this repository is public, I’m limiting the application information shared here to protect my privacy. I’ll list only programs with deadlines within the next month, add later programs as their deadlines approach, and remove entries after their deadlines have passed.
+> Since this page is open to everyone, I’d feel more comfortable keeping some of my application plans private. I’ll share programs due within the next month, add new ones as their deadlines approach, and remove entries once their deadlines have passed.
 >
-> I’m sorry for any inconvenience this may cause. For later deadlines, I’ll also email you a reminder and the submission details 14 days in advance.
+> I’m sorry if this makes planning ahead a little less convenient. For later deadlines, I’ll make sure to email you a reminder and the submission details 14 days in advance, so you won’t need to keep checking this page. Thank you so much for your time and support.
 
 ## Upcoming application deadlines
 
