@@ -6,7 +6,7 @@ Thank you for supporting my graduate studies. This page brings together upcoming
 
 > Because this repository is public, I’m limiting the application information shared here to protect my privacy. I’ll list only programs with deadlines within the next month, add later programs as their deadlines approach, and remove entries after their deadlines have passed.
 >
-> I’m sorry for any inconvenience this may cause. I’ll also send you an email reminder 14 days before each relevant deadline, along with the submission details.
+> I’m sorry for any inconvenience this may cause. For later deadlines, I’ll also email you a reminder and the submission details 14 days in advance.
 
 ## Upcoming application deadlines
 
