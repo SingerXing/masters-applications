@@ -4,16 +4,15 @@ Thank you for supporting my graduate studies. This page brings together upcoming
 
 *Last updated: October 29, 2026*
 
-> I’ll keep this page updated. The programs listed below have November–December 2026 deadlines; information about programs with **January 2027 and later deadlines** will be added later as I finalize the details.
+> Because this repository is public, I’m limiting the application information shared here to protect my privacy. I’ll list only programs with deadlines within the next month, add later programs as their deadlines approach, and remove entries after their deadlines have passed.
+>
+> I’m sorry for any inconvenience this may cause. I’ll also send you an email reminder 14 days before each relevant deadline, along with the submission details.
 
 ## Upcoming application deadlines
 
 | Deadline | School | Program |
 |---|---|---|
 | November 2, 2026 | UChicago | MS in Financial Mathematics |
-| December 1, 2026 | NYU | MS in Financial Engineering |
-| December 1, 2026 | Cornell | M.Eng. in Operations Research and Information Engineering |
-| December 5, 2026 | Georgia Tech | MS in Quantitative and Computational Finance |
 
 These are the application deadlines in my current schedule. I’ll share recommendation submission links and any recommender-specific instructions directly.
 
