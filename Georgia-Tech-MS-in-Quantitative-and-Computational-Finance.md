@@ -23,6 +23,7 @@ These notes summarize the QCF information-session slides I saved. They are inten
 
 The session discussed the statement of purpose and short-answer questions as subjective components of the application.
 
+- **Project or research experience:** one question discusses a project or research experience from a class, capstone, or lab and its relevance to the applicant's candidacy.
 - **Programming experience:** describe the programming languages you are comfortable using and your proficiency in each. The slide gives a **500-word maximum**.
 - **Optional context:** explain discrepancies or weaknesses that would benefit from context, such as employment gaps, low grades, recommendations not coming from a recent supervisor, unusual work experience or career paths, or other challenges.
 
