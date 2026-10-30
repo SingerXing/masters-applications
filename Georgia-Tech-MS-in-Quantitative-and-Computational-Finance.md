@@ -60,3 +60,8 @@ The slides describe English testing for international candidates, with exception
 | IELTS | 7 | Additional section requirements apply |
 
 This is a summary of the session material, rather than an independent check of current testing and waiver policies. It does not reproduce the complete IELTS section requirements.
+
+### Contacts shown in the session slides
+
+- QCF program inquiries: [info@qcf.gatech.edu](mailto:info@qcf.gatech.edu)
+- Additional contact: [laurac@gatech.edu](mailto:laurac@gatech.edu)
