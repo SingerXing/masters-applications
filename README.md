@@ -23,6 +23,8 @@ These are the application deadlines in my current schedule. I’ll share recomme
 
 - [UChicago — MS in Financial Mathematics](UChicago-MS-in-Financial-Mathematics.md): my notes from the October 19 admissions session, including the curriculum and the qualities the program looks for.
 
+- [Georgia Tech — MS in Quantitative and Computational Finance](Georgia-Tech-MS-in-Quantitative-and-Computational-Finance.md): my notes on academic preparation, experience, short answers, references, and interviews.
+
 ## Background materials
 
 - [Academic background and selected projects](academic-background.md)
