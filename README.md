@@ -12,7 +12,7 @@ Thank you for supporting my graduate studies. This page brings together upcoming
 
 | Deadline | School | Program | Status |
 |---|---|---|---|
-| November 2, 2026 | UChicago | MS in Financial Mathematics | Not submitted |
+| November 2, 2026 | UChicago | MS in Financial Mathematics | submitted |
 | December 1, 2026 | NYU | MS in Financial Engineering | Not submitted |
 | December 1, 2026 | Cornell | M.Eng. in Operations Research and Information Engineering | Not submitted |
 | December 5, 2026 | Georgia Tech | [MS in Quantitative and Computational Finance](Georgia-Tech-MS-in-Quantitative-and-Computational-Finance.md) | Not submitted |
