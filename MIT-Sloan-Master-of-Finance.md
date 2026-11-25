@@ -2,6 +2,13 @@
 
 **Application and all three recommendations due Tuesday, January 5, 2027, at 3 p.m. Eastern / 2 p.m. Central.** MIT Sloan lists March 10, 2027 as the decision date. [Official application instructions](https://mitsloan.mit.edu/mfin/admissions/how-to-apply)
 
+## What the admissions team looks for
+
+- **Quantitative preparation.** The presenters highlighted linear algebra, probability, statistics, and multivariable calculus. STEM coursework, Python, and courses in finance, accounting, or economics can also demonstrate readiness. Applicants can show their preparation through different combinations of coursework and experience.
+- **An understanding of finance careers.** Finance work or internship experience is helpful and optional. The presenters encouraged applicants coming from another field to explain what they understand about the finance work they hope to do and why it interests them.
+- **Communication and teamwork.** Sloan looks for clear written and spoken English, the ability to work with others, and a willingness to participate in its community.
+- **Evidence across the application.** The committee considers coursework, experiences, goals, recommendations, and responses together. The presenters encouraged applicants to follow the directions, use their own voice, and give concrete examples. For a professor, that might be a problem you saw the student solve, a result they explained to classmates, or a contribution they made to a team.
+
 ## For recommenders
 
 Current students need **two academic letters from their current institution**, preferably from professors, and **one professional letter from a recent internship**, preferably from the supervisor. The applicant must list that internship in the Employment section. At least one of the three writers must be able to discuss the applicant’s quantitative abilities.
@@ -28,7 +35,6 @@ The session mentioned a research supervisor as a possible alternative for a stud
 ## Preparing the application
 
 - **Academic record.** Upload transcripts from every university attended. In the coursework section, identify completed or current classes in linear algebra, multivariable calculus, probability, and statistics. Additional certificates and non-degree courses can document preparation in subjects the applicant’s university did not offer. MIT prefers Python proficiency and expects students to demonstrate it before enrollment.
-- **Finance knowledge.** The session highlighted familiarity with finance career paths and the ability to explain what draws the applicant to the field. Finance internships and classes in accounting, economics, or finance can provide examples. Applicants coming from another field can demonstrate their understanding of finance throughout their answers. The committee also looks for teamwork, clear written and spoken English, and a willingness to contribute to Sloan.
 - **Résumé.** Submit one page in 10-point Times New Roman, as a Word file or PDF. Use reverse chronological order within education, full-time work, internships, other experience, and additional information. For each role, describe what you accomplished.
 - **Employment section.** List up to three recent experiences. MIT counts paid, full-time work lasting more than four months after earning a degree as full-time employment. An internship may be paid or unpaid and must be an official role verifiable through the employer’s HR department. Use the résumé’s other-experience section for informal projects or research. Admitted students’ employment is verified before enrollment.
 - **Test scores.** GMAT and GRE scores are optional.
