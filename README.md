@@ -2,7 +2,7 @@
 
 Thank you for supporting my graduate studies. This page brings together upcoming application deadlines, program notes, and academic materials to help with recommendation letters.
 
-*Last updated: November 2, 2026*
+*Last updated: November 25, 2026*
 
 > Since this page is open to everyone, I’d feel more comfortable keeping some of my application plans private. I’ll share programs with upcoming deadlines, add new ones as their deadlines approach, and remove entries once their deadlines have passed.
 >
@@ -21,6 +21,7 @@ These are the application deadlines in my current schedule. I’ll share recomme
 ## Program notes
 
 - [Georgia Tech — MS in Quantitative and Computational Finance](Georgia-Tech-MS-in-Quantitative-and-Computational-Finance.md): my notes on academic preparation, experience, short answers, references, and interviews.
+- [Duke — Master in Interdisciplinary Data Science](Duke-Master-in-Interdisciplinary-Data-Science.md) — application requirements, the Quantitative Finance concentration, and information sessions.
 
 ## Background materials
 
