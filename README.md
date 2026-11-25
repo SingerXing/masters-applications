@@ -22,7 +22,7 @@ These are the application deadlines in my current schedule. I’ll share recomme
 
 - [Georgia Tech — MS in Quantitative and Computational Finance](Georgia-Tech-MS-in-Quantitative-and-Computational-Finance.md): my notes on academic preparation, experience, short answers, references, and interviews.
 - [MIT Sloan — Master of Finance](MIT-Sloan-Master-of-Finance.md) — recommendation requirements, video and short-answer prompts, interview timeline, and curriculum.
-- [Duke — Master in Interdisciplinary Data Science](Duke-Master-in-Interdisciplinary-Data-Science.md) — application requirements, the Quantitative Finance concentration, and information sessions.
+- [Duke — Master in Interdisciplinary Data Science (program overview PDF)](Duke-MIDS-Overview.pdf)
 
 ## Background materials
 
